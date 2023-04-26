@@ -1,0 +1,12 @@
+{
+    "name" : "Galactic Pong",
+    "version" : "1.0.0",
+    "description" : "blah",
+    "manifest_version" : 3,
+    "author" : "Felix Gottlieb",
+    "action" : {
+        "default_popup" : "index.html",
+        "default_title" : "Galactic Pong"
+    }
+
+}
